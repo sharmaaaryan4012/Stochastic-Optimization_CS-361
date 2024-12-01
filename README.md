@@ -1,1 +1,1 @@
-# CS361_Final-Project
+# Stochastic-Optimization_CS361
